@@ -4,7 +4,6 @@ import cors from 'cors';
 import routes from './routes';
 import 'reflect-metadata';
 import './database';
-
 import uploadconfig from './config/upload';
 import AppError from './errors/AppError';
 
